@@ -1,4 +1,4 @@
-My intention is to host new repository elsewhere.  Things stored here won't
+My intention is to host new repositories elsewhere.  Things stored here won't
 be removed and will be updated, however they might be logically moved from
 GitHub to other location(s).  GitHub can still be used for mirrors of new
 projects if there is a need for that.
